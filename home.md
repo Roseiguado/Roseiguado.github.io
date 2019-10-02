@@ -12,4 +12,44 @@ LinkedIn.com/I’m/rose-iguado-9b840b194
 
 # My Blog
 
-## Post - October 2 
+## Post - Week 1
+
+Front-end Web Development
+HTML
+CSS
+Javascript
+CMS
+Version control
+Workflow
+
+Learning about Coding
+There are three different data types:
+1. Numbers (mynumber=150;)
+2. Strings (Mystring='hello';)
+3. Booleans (Mybool=true;)
+
+Operators
+Different symbols like + that represent an operator for addition
+Variables
+(apples, my-apples, answer)
+Comparisson Operators
+Compare values and they evaluate to a True or False
+Authentic operators are used to make calculations
+Functions
+Sequence of instructions & name
+makesandwich=Function
+"ham" "cheese" = arguments
+Values (parameters)
+Topping 1
+Topping 2
+
+Control Flow control structures they include:
+Conditional (describe right conditions in which to use each set)
+Loop (Repeat a sound a number of times)
+Exceptions (if it is incorrect it will reject the action)
+
+October 2nd I have been working on CodeAcademy and seting up my Linked-in account, Twitter, Github.
+
+
+
+
