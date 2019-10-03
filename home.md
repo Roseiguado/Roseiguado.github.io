@@ -51,6 +51,14 @@ Exceptions (if it is incorrect it will reject the action)
 
 October 2nd I have been working on CodeAcademy and seting up my Linked-in account, Twitter, Github.
 
+October 3rd watched "How does internet works"
+working on Code Academy "For Loops"
+Count Controlled loops
+While loops (condition controlled loops repeat until a condition changes)
+For each loops (Collection controlled loops, repeat for each iterm in a collection).
+
+
+
 
 
 
