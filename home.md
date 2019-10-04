@@ -95,7 +95,7 @@ We can use Code editors as a tool to automatically edit codes that where we miss
 
 Videos
 What does what in your computer? Computer parts explained.
-Lightning Talks - FreeCodeCamp OKC
+Building relationships in the IT community.
 
 
 
