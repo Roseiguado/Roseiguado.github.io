@@ -25,13 +25,13 @@ CMS
 Version control
 Workflow
 
-Learning about Coding
+# Learning about Coding
 There are three different data types:
 1. Numbers (mynumber=150;)
 2. Strings (Mystring='hello';)
 3. Booleans (Mybool=true;)
 
-Operators
+# Operators
 Different symbols like + that represent an operator for addition
 Variables
 (apples, my-apples, answer)
@@ -47,14 +47,14 @@ Values (parameters)
 Topping 1
 Topping 2
 
-Control Flow control structures they include:
+# Control Flow control structures they include:
 Conditional (describe right conditions in which to use each set)
 Loop (Repeat a sound a number of times)
 Exceptions (if it is incorrect it will reject the action)
 
-October 2nd I have been working on CodeAcademy and seting up my Linked-in account, Twitter, Github.
+# October 2nd I have been working on CodeAcademy and seting up my Linked-in account, Twitter, Github.
 
-October 3rd watched "How does internet works"
+# October 3rd watched "How does internet works"
 working on Code Academy "For Loops"
 Count Controlled loops
 While loops (condition controlled loops repeat until a condition changes)
@@ -64,14 +64,11 @@ Appending is when we add things to the end of an existing list, we say we are ap
 You can accces a item by its index position
 You can append items to the end or middle
 You can remove items from end to middle.
-MARK DOWN is a way to style texts on the web to formatting words as bold or italic, adding images, and creating lists.
-Examples of regular texts with a few characters sintax and headers:
-# <H1> tag
-## <H2> tag
-###### <H6> tag
 
-October 4
-Organizing your learning
+# MARK DOWN is a way to style texts on the web to formatting words as bold or italic, adding images, and creating lists.
+
+# October 4
+# Organizing your learning
 Buffet of Learning:
 Trello
 mobile apps
@@ -83,13 +80,13 @@ Newsletters
 fullstack React
 Dev. to
 
-AGILE is a way to manage projects for software development and it breaks down larger projects into small.
+# AGILE is a way to manage projects for software development and it breaks down larger projects into small.
 
-Gearing Up - Odin Project
-Learning concets and then practicing them will help you fully understand how things work and fit together.
-FIVER is a website to find people who can help you create a website.
+# Gearing Up - Odin Project
+Learning concepts and then practicing them will help you fully understand how things work and fit together.
+# FIVER is a website to find people who can help you create a website.
 
-We can use Code editors as a tool to automatically edit codes that where we miss a simple symbol or character, and the most pospular free code editor is VS Code.
+# We can use Code editors as a tool to automatically edit codes that where we miss a simple symbol or character, and the most pospular free code editor is VS Code.
 
 
 
