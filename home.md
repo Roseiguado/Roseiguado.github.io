@@ -47,7 +47,7 @@ Values (parameters)
 Topping 1
 Topping 2
 
-# Control Flow control structures they include:
+Control Flow control structures they include:
 Conditional (describe right conditions in which to use each set)
 Loop (Repeat a sound a number of times)
 Exceptions (if it is incorrect it will reject the action)
@@ -55,7 +55,8 @@ Exceptions (if it is incorrect it will reject the action)
 # October 2nd
 I have been working on CodeAcademy and seting up my Linked-in account, Twitter, Github.
 
-# October 3rd watched "How does internet works"
+# October 3rd
+watched "How does internet works"
 working on Code Academy "For Loops"
 Count Controlled loops
 While loops (condition controlled loops repeat until a condition changes)
@@ -65,8 +66,7 @@ Appending is when we add things to the end of an existing list, we say we are ap
 You can accces a item by its index position
 You can append items to the end or middle
 You can remove items from end to middle.
-
-# MARK DOWN
+MARK DOWN
 is a way to style texts on the web to formatting words as bold or italic, adding images, and creating lists.
 
 # October 4
@@ -82,18 +82,21 @@ Newsletters
 fullstack React
 Dev. to
 
-# AGILE
+AGILE
 Is a way to manage projects for software development and it breaks down larger projects into small.
 
-# Gearing Up - Odin Project
+Gearing Up - Odin Project
 Learning concepts and then practicing them will help you fully understand how things work and fit together.
 
-# FIVER 
+FIVER 
 Is a website to find people who can help you create a website.
 
 We can use Code editors as a tool to automatically edit codes that where we miss a simple symbol or character, and the most pospular free code editor is VS Code.
 
-Video (What does what in your computer? Computer parts explained.
+Videos
+What does what in your computer? Computer parts explained.
+Lightning Talks - FreeCodeCamp OKC
+
 
 
 
