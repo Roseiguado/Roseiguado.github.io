@@ -9,6 +9,8 @@ My biggest goal in life is to enjoy life doing everything that makes me happy an
 # Contact
 
 LinkedIn.com/I’m/rose-iguado-9b840b194
+https://twitter.com/Rose50036321
+
 Roseiguado13@gmail.com
 
 # My Blog
@@ -35,6 +37,7 @@ Variables
 (apples, my-apples, answer)
 Comparisson Operators
 Compare values and they evaluate to a True or False
+
 Authentic operators are used to make calculations
 Functions
 Sequence of instructions & name
@@ -56,6 +59,42 @@ working on Code Academy "For Loops"
 Count Controlled loops
 While loops (condition controlled loops repeat until a condition changes)
 For each loops (Collection controlled loops, repeat for each iterm in a collection).
+List is an ordered sequence of info (Adding items to a list after is created)
+Appending is when we add things to the end of an existing list, we say we are appendig them to an existing list.
+You can accces a item by its index position
+You can append items to the end or middle
+You can remove items from end to middle.
+MARK DOWN is a way to style texts on the web to formatting words as bold or italic, adding images, and creating lists.
+Examples of regular texts with a few characters sintax and headers:
+# <H1> tag
+## <H2> tag
+###### <H6> tag
+
+October 4
+Organizing your learning
+Buffet of Learning:
+Trello
+mobile apps
+priotitize tasks 
+React learning board for things I can watch or see later
+Trello board
+Platforms
+Newsletters
+fullstack React
+Dev. to
+
+AGILE is a way to manage projects for software development and it breaks down larger projects into small.
+
+Gearing Up - Odin Project
+Learning concets and then practicing them will help you fully understand how things work and fit together.
+FIVER is a website to find people who can help you create a website.
+
+We can use Code editors as a tool to automatically edit codes that where we miss a simple symbol or character, and the most pospular free code editor is VS Code.
+
+
+
+
+
 
 
 
