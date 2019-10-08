@@ -126,6 +126,27 @@ Exercise
 9. Renama a directory or file
   $mv test.txt
 https://www.youtube.com/watch?v=N7ZmPYaXoic
+
+#October 8
+Git Basics
+1.A Git clone command is used to get a full copy of an existing git repository from gitHub
+  git clone git@github.com:<your-repository-home> to clone a gitHub repository onto your computer.
+2.Use git status command to see any changes made since your last commit
+3.Use git add to track files with git
+4.Use git commit command to commit files
+5.Use git log to view your commit history
+6.Use git push command to upload projects on GitHub
+7.There are 2 stage system that Git uses to save files add and commit.
+  Staging: git add (to save the changes you select)
+  Commiting: -m (message) " " (commit message inside quotation marks)
+  git commit -m "add readme.md".
+8.Origin is a placeholder name for the URL of the remote repository
+  Use origin to access remote repository without entering a full URL everytime.
+9. Master is the branch of the remote repository you want to push your changes to.
+  
+Watched Video Git
+ 
+  
   
   
   
