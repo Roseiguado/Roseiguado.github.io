@@ -152,7 +152,27 @@ Building relationships in the IT community.
   
 Watched Video Git
  
-  
+# October 9
+# Git Vs GitHub 
+
+The difference between Git and GitHub is that Git is a version control system and GitHub is a development platform to store your documents .
+
+Repository is all the things that go on your file.
+
+Directory is a folder.
+
+Fork is making a copy of another repository in GitHub
+
+Clone is to make a copy of an existing repository in a new directory.
+
+Branch is a command that helps you create, delete and list branches in your repository or remote.
+
+Pull requests let you tell others about changes you pulled to a branch in a repository in GitHub.
+
+https://classroom.google.com/c/MzU5MjY3MzM1NTda/a/NDA5MjQxNzgwNTFa/details
+ 
+
+ 
   
   
   
