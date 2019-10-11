@@ -170,6 +170,70 @@ Branch is a command that helps you create, delete and list branches in your repo
 Pull requests let you tell others about changes you pulled to a branch in a repository in GitHub.
 
 https://classroom.google.com/c/MzU5MjY3MzM1NTda/a/NDA5MjQxNzgwNTFa/details
+
+# October10
+Learning how to create a Pull Request from a fork.
+
+We watched the Youtube tutorial video Pull Request and we followed through the steps and did one on our own:
+
+https://classroom.google.com/w/MzU5MjY3MzM1NTda/tc/MzU5MjQwNDQwMzRa
+
+Our Guess speaker Tyler Moody talked about Git Strategies:
+
+Git
+  Command tool
+  Integration with source controls like Gitbucket which this one is very popular for a lot of companies in OKC.
+
+Gitignore
+  This informs git what you don't want to have outhere. Anything you don't want publicity visible.
+  
+Readme.md
+  One of the first paces that dev is going to look.
+  
+Gitfolder
+  Every time youj do a pull against a local it saves the changes.
+  
+Branching Strategy
+  Traditional strategy when creating branches:
+    Features
+    Bugfix
+    per card
+Creating a branch
+  git checkout -b cool-branch
+
+The Good, Bad and Ugly
+
+Good
+  Fature branches
+  Pull requests
+Bad
+  Merging
+Ugly
+  Merge conflicts
+
+Merging Branches allows you to move changes from bfanch to branch.
+
+Rebase
+ 2 ways to do it:
+ directly git rebase
+ git pull --rebase
+
+Note: Never edit in source control directly and never rebase against master.
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+
+
+
+
+
+
  
 
  
