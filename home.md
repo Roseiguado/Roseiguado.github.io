@@ -1,14 +1,15 @@
 # About Me
 
-My name is Rosalba Iguado I was born in Chihuahua city in Mexico on November 13, 1983. I am a single mother with 2 precious little boys. I have a technical degree in bilingual administrator assistant in MX. MY job experience is mostly in customer service. I worked at UPS Air Freight as a Data III agent sending shipments daily by air and making sure the shipments arrived to final destination on time. I have also worked for call centers in different areas like Microsoft Money technical support and I helped customers troubleshoot problems in their computers over the phone. I have accounting and HR experience as well and my last job was a housekeeper self employee in which I enjoyed doing it; making sure I did a good and satisfying job for my clients homes. I was able to build really good relationships as a house keeper and my past jobs and that has motivated me to do more things and to help others and always give the best of me. I am very happy to be part of the CTRL+SHIFT Code School program, and I am very excited for new opportunities and new challenges in my life.
+My name is Rosalba Iguado I was born in Chihuahua city in Mexico on November 13, 1983. I am a single mother with 2 precious little boys. I have a technical degree in Bilingual Administrative Assistant in Mexico. MY job experience is mostly in customer service. I worked at UPS Air Freight as a Data III agent sending shipments daily by air and making sure the shipments arrived to final destination on time. I have also worked for call centers in different areas like Microsoft Money technical support and I helped customers troubleshooting error issues in their computers over the phone. I have accounting and HR experience as well; and my last job was a self employee working as a housekeeper where I was able to build really good relationships with my clients and that has motivated me to do more things and to help others by giving the best of me. I am very happy to be part of the CTRL+SHIFT Code School program, and I am very excited for the new opportunities and new challenges in my life.
 
 # Goals
 
-My biggest goal in life is to enjoy life doing everything that makes me happy. I want to grow in a business and I want to take new challenges where I can use all my knowledge to perform a good job and have the satisfaction that I can do anything if I really want to follow my dream for a good future for me and my boys.
+My biggest goal in life is enjoying life with my family; doing anything that makes me happy. I want to have my own business and work for a good company taking new challenges where I can use all my knowledge to perform a good job and have the satisfaction that I can be really good at anything I do. My personal goal is traveling and discovering the world.
 
 # Contact
 
 LinkedIn.com/I’m/rose-iguado-9b840b194
+
 https://twitter.com/Rose50036321
 
 Roseiguado13@gmail.com
