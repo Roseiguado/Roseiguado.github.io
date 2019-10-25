@@ -214,12 +214,159 @@ Ugly
 
 Merging Branches allows you to move changes from bfanch to branch.
 
-Rebase
+GIT Rebase
  2 ways to do it:
  directly git rebase
  git pull --rebase
 
 Note: Never edit in source control directly and never rebase against master.
+
+GIT BRANCHES
+
+git checkout
+git commit
+git branch -b (name for the branch)
+git merge
+
+GIT HEAD
+
+git checkout c1
+git checkout master
+git commit
+git checkout c2 
+detaching HEAD means attaching it to a commit instead of a branch.
+example: Head-master-c1
+
+Relative Refs
+In git instead of typing the whole hash fe2bcfedkdkejehehwe you type in the first 4 letters fed2
+Relative commits
+To move upwards one commit at a time with ^.
+To move upqwards a number dof ltimes with ~<num>
+master ^ first parent of the master
+master ^^ grandparent of master
+
+HTML & CSS
+
+Every project has to have an index.html
+Always use lower case for naming or editing folders and files
+Open your visual studio
+create a new folder
+create a about.html file
+create a index.html file
+create a new folder name CSS
+Create a style.css file
+
+To commit html in github open a command line from the folder you created
+git innit
+git add .
+git commit -m
+
+# October 22 INNOTECH/THUNDERPLAINS EVENT
+
+Animations
+Timelines and playback control Sag/css/Js
+
+Properties like a transform to animate
+
+Available animation:
+
+Firegox, and Opera have foundation implementated
+Safari is very close in Tech preview of behind a flag
+Edge will be blink soon
+
+Create an animation
+Transitioning fro one state to another
+A tiing function
+
+Animating multiple frames and properties
+key frames
+
+It has an equivalent in CSS
+Beneffits as compositor layer
+variables
+finer control
+
+Control and play states
+
+If's you want to see how far away you are in an animation that is player timeline.
+
+Playback rate fives a lot of power to play it faster
+
+EVENTS
+onfinish oncancel
+Games that uses animation
+
+Interacting with multiple animations.
+
+COSECURITYPRO
+
+What is IOT
+Printers, smart thermostats, smart lights, cars, appliances, phones etc.,
+
+Prevent hackers
+
+IOT is everywhere
+It's growing quickly as mpore devices get in the network
+
+MS08-06 2008 devices were infected with conficker. They had to find hatches to fix the devices.
+
+Domain Admin was applied in printers. Hackers got access to it with default credentials. Hplaserjet M4345 insecurely returns the password in the clients HTTp response. Since it was domain admin it was harde to fix.
+
+Meteobridge webb weather web interface. Weather underground insecure passwords were easy to get in and more chances to hack.
+
+Highly recommend to a non default value. No encryption at all.
+
+Lessons learned:
+Change default password
+Apply media and software patches
+Isolate IOT from trusted networks
+Network access least privileges con be affected
+Apply firmware and software patches
+Isolate these devices from other networks
+
+Miral Botnet
+Uses a table of 60 factory default usernames
+Isolate IOT from the internet
+Change default password
+
+Another default password mistake
+1234567812345678
+
+Konica Minolta Bizhub
+Change LDAP server address to the pen test system.
+
+Address Book
+64 usernames and email addresses. With that you can launch a password spray attack against the user list.
+
+Encouraging users to make passwords long to prevent these kind of attacks in the network.
+
+Veeder Root
+Keep your data secure with FTS
+Vulnerable to shellshack
+Can run commands on the webserver
+
+IPMI devices
+Out of band management for servers
+Intelligent Platform management. Allows you to do lthings from the command line IPMI ipmitool.
+
+Cipherzero should be disable to prevent anytype of attacks.
+
+Remote Hash Retrieval vulnerability it cannot be patched.
+
+We need a mental model
+#1 defensive layers
+#2 attack surface
+#3 least privilege
+
+Cybersecurity
+Identifying your IOT
+Detect issues that arent resolved
+Response 
+Recover
+
+
+
+
  
   
   
