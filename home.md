@@ -263,6 +263,8 @@ git commit -m
 
 # October 22 INNOTECH/THUNDERPLAINS EVENT
 
+# MY NOTES
+
 Animations
 Timelines and playback control Sag/css/Js
 
